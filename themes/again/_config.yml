@@ -1,0 +1,36 @@
+# basic
+title: Scribbles
+subtitle: Random hobbies
+favicon: favicon.ico
+
+# avatar: images/avatar.png
+# banner_small: images/banner-small.png
+# banner_large: images/banner-large.png
+avatar: images/avatar.jpg
+banner_small: images/banner_small.jpg
+banner_large: https://pbs.twimg.com/profile_banners/222364908/1429427707/1500x500
+
+# disqus
+
+
+# social
+social:
+  github: https://github.com/vikene
+  twitter: https://twitter.com/vigneashsundar
+
+
+# nav #
+nav:
+  home: .
+  archive: archives
+  # about: about
+  rss: atom.xml
+
+# heox-renderre-sass
+node_sass:
+  outputStyle: nested
+  precision: 5
+  sourceComments: false
+
+
+google_anlytics: # Put tracking ID here
